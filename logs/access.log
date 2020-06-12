@@ -340,3 +340,7 @@
 127.0.0.1 - - [10/Jun/2020:18:11:08 +0800] "GET /favicon.ico HTTP/1.1" 200 3150 "http://localhost:7080/react16/about" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
 127.0.0.1 - - [10/Jun/2020:18:13:18 +0800] "GET /b?t=11&ct=506232_hcdn&pf=1&p=11&p1=114&c1=&s1=&hnc=ktq227wgof2fjdwoizjy7q6qyfp3mqfz&hnv=10.0.1.1387&sret=6&hnn=2&upr=3&upp=0&upi=0&upo=0&rtv=&rtm= HTTP/1.1" 404 153 "-" "PPStream-heartStat/1.0"
 127.0.0.1 - - [10/Jun/2020:18:14:18 +0800] "" 408 0 "-" "-"
+127.0.0.1 - - [12/Jun/2020:17:54:18 +0800] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
+127.0.0.1 - - [12/Jun/2020:17:54:18 +0800] "GET /static/css/main.d1b05096.chunk.css HTTP/1.1" 304 0 "http://localhost:7080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
+127.0.0.1 - - [12/Jun/2020:17:54:18 +0800] "GET /static/js/2.61e6373c.chunk.js HTTP/1.1" 304 0 "http://localhost:7080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
+127.0.0.1 - - [12/Jun/2020:17:54:18 +0800] "GET /static/js/main.a861f27d.chunk.js HTTP/1.1" 304 0 "http://localhost:7080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
